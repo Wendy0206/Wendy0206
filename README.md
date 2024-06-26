@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wendy D. Pierre</h1>
-<h3 align="center">A passionate frontend developer from Miramar, Florida 33025</h3>
+<h3 align="center">Passionate about innovation and collaborative teamwork, aiming to drive exceptional user experiences.</h3>
 <img align="right" alt="coding" width="400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm03OTBkNTdqcmQxZ3F0NWdjenlobHYyZGhmcnZ6ODhvZW5rNGk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendy0206&label=Profile%20views&color=0e75b6&style=flat" alt="wendy0206" /> </p>
